@@ -1,4 +1,4 @@
-import Tweepy
+import tweepy
 import os
 def create_api():
   consumer_key = os.getenv('consumer_key')
